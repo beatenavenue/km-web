@@ -1,0 +1,11 @@
+theme: jekyll-theme-minimal
+repository: beatenavenue/km-web
+title: KittenMachine.CLUB
+description: ' '
+logo: favicon.svg
+footer:
+  - KittenMachine.CLUB
+  - KM WORK Engineering
+include:
+  - .well-known
+  - security.txt
