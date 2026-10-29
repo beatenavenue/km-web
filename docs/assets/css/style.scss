@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// 幅 960px 以下（サイドバーが上に回り込むレイアウト）のときだけロゴを縮めて中央に置く
+@media print, screen and (max-width: 960px) {
+  header img {
+    display: block;
+    width: 160px;
+    max-width: 100%;
+    margin: 0 auto 20px;
+  }
+}

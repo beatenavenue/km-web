@@ -1,14 +1,18 @@
+---
+title: KittenMachine.CLUB
+---
+
 # Devices
 ## GOTOKU-55 Trackball
 Open source hardware 55mm Trackball project.  
 Based on Ploopy Adept Trackball, and Anyball slim-btu v4.
 
-[![github](assets/GitHub_Invertocat_Black.svg){: width="16" height="16"} github](https://github.com/beatenavenue/hw_gotoku55-trackball)
+[![GitHub](assets/GitHub_Invertocat_Black.svg){: width="16" height="16"} GitHub](https://github.com/beatenavenue/hw_gotoku55-trackball)
 
 ## CursorBoard Prototype Keyboard
 Keyboard prototype.
 
-[![github](assets/GitHub_Invertocat_Black.svg){: width="16" height="16"} github](https://github.com/beatenavenue/hw_cursorboard)
+[![GitHub](assets/GitHub_Invertocat_Black.svg){: width="16" height="16"} GitHub](https://github.com/beatenavenue/hw_cursorboard)
 
 ---
 # Web services
