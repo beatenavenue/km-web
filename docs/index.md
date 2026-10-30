@@ -17,7 +17,7 @@ Keyboard prototype.
 ---
 # Web services
 ## General
-[Web bookmark](https://bookmark.kitten-machine.club)
+- [Web bookmark](https://bookmark.kitten-machine.club)
 
 ## Devs
 - [Service Status](https://status.kitten-machine.club)
