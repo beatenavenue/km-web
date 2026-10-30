@@ -4,6 +4,8 @@ title: KittenMachine.CLUB
 
 # Devices
 ## GOTOKU-55 Trackball
+![GOTOKU-55](img/gotoku55.gif){: width="400" height="400"}
+
 Open source hardware 55mm Trackball project.  
 Based on Ploopy Adept Trackball, and Anyball slim-btu v4.
 
